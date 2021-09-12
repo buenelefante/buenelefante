@@ -5,9 +5,9 @@
 ### I'm Amazing Web Developer
 
 I like
-- :ron: centenario
-- :sport: powerlifting
-- :music: heavy metal
+- ☕ coffe
+- 💪 powerlifting
+- 🚀 heavy metal
 
 and CODING!!!
 ---
