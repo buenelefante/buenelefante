@@ -39,5 +39,5 @@ and CODING!!! 🖥️
 [<img align="left" alt="facebook" width="26px" src="https://image.flaticon.com/icons/png/128/733/733547.png" >][facebook]
 [<img align="left" alt="twitter" width="26px" src="https://image.flaticon.com/icons/png/128/733/733579.png" >][twitter]
 [instagram]:
-[facebook]:
+[facebook]: https://www.facebook.com/spbnwp
 [twitter]:
