@@ -7,9 +7,9 @@
 I like
 - ☕ coffe
 - 💪 powerlifting
-- 🚀 heavy metal
+- 🤘 heavy metal
 
-and CODING!!!
+and CODING!!! 🖥️
 ---
 ### Skills and Tools
 
