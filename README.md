@@ -26,6 +26,7 @@ Want to know more about me? [Check out my portfolio.](https://vladimirsaenko.dev
 <details>
 <summary>More Skills</summary>
 <br>
+  
 ![](https://img.shields.io/badge/Style-Sass-informational?style=flat&logo=Sass&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=npm&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-Photoshop-informational?style=flat&logo=Adobe-Photoshop&logoColor=white&color=4AB197)
