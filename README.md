@@ -21,20 +21,19 @@ Want to know more about me? [Check out my portfolio.](https://vladimirsaenko.dev
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=4AB197)
-<br>
-<br>
-<br>
+![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=4AB197)
 
-[<img align="left" alt="React" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" >][facebook]
-[<img align="left" alt="Gulp" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/gulp/gulp.png" />][facebook]
-[<img align="left" alt="SASS" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" >][facebook]
-[<img align="left" alt="Webpack" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png" >][facebook]
-[<img align="left" alt="Figma" width="32px" src="https://raw.githubusercontent.com/github/explore/05d0f0dfceafd861bdf2b53559399dae7b2e2d8b/topics/figma/figma.png" >][facebook]
-[<img align="left" alt="Illustrator" width="32px" src="https://image.flaticon.com/icons/png/128/2496/2496687.png">][instagram]
-[<img align="left" alt="Photoshop" width="32px" src="https://image.flaticon.com/icons/png/128/888/888872.png">][instagram]
-[<img align="left" alt="Wordpress" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png" >][facebook]
-[<img align="left" alt="JQuery" width="52px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png" >][facebook]
-[<img align="left" alt="mySQL" width="42px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" >][facebook]
+<details>
+<summary>More Skills</summary>
+<br>
+![](https://img.shields.io/badge/Style-Sass-informational?style=flat&logo=Sass&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=npm&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Tools-Photoshop-informational?style=flat&logo=Adobe-Photoshop&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Tools-Illustrator-informational?style=flat&logo=Adobe-Illustrator&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Tools-Webpack-informational?style=flat&logo=Webpack&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Tools-Gulp-informational?style=flat&logo=Gulp&logoColor=white&color=4AB197)
+
+
 
 <br>
 <br>
