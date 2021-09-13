@@ -41,6 +41,7 @@ and CODING!!! 🖥️
 [<img align="left" alt="instagram" width="26px" src="https://image.flaticon.com/icons/png/128/2111/2111463.png" >][instagram]
 [<img align="left" alt="facebook" width="26px" src="https://image.flaticon.com/icons/png/128/733/733547.png" >][facebook]
 [<img align="left" alt="twitter" width="26px" src="https://image.flaticon.com/icons/png/128/733/733579.png" >][twitter]
+[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/)
 
 
 [instagram]: https://www.instagram.com/
