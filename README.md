@@ -1,8 +1,8 @@
 [![Buenelephante's GitHub Banner](./assets/GitHubHeader.png)](https://vladimirsaenko.dev)
 
-[![Facebook Badge](https://img.shields.io/badge/Facebook-Profile-informational?style=flat&logo=facebook&logoColor=white&color=1CA2F1)](https://www.facebook.com/spbnwp)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/)
-[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/)
+[![Facebook Badge](https://img.shields.io/badge/Facebook-Profile-informational?style=flat&logo=facebook&logoColor=white&color=4867AA)](https://www.facebook.com/spbnwp)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0077B7)](https://www.linkedin.com/in/)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1D9BF0)](https://twitter.com/)
 
 Hey, party people ✋
 
@@ -35,9 +35,6 @@ Want to know more about me? [Check out my portfolio.](https://vladimirsaenko.dev
 ![](https://img.shields.io/badge/Tools-Webpack-informational?style=flat&logo=Webpack&logoColor=white&color=89BBFE)
 ![](https://img.shields.io/badge/Tools-Gulp-informational?style=flat&logo=Gulp&logoColor=white&color=89BBFE)
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=89BBFE)
-  
-<br>
-  
 ![](https://img.shields.io/badge/Tools-Photoshop-informational?style=flat&logo=Adobe-Photoshop&logoColor=white&color=89BBFE)
 ![](https://img.shields.io/badge/Tools-Illustrator-informational?style=flat&logo=Adobe-Illustrator&logoColor=white&color=89BBFE)
 ![](https://img.shields.io/badge/Tools-Figma-informational?style=flat&logo=Figma&logoColor=white&color=89BBFE)
