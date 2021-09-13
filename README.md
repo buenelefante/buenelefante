@@ -27,6 +27,8 @@ and CODING!!! 🖥️
 [<img align="left" alt="SASS" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" >][facebook]
 [<img align="left" alt="Webpack" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png" >][facebook]
 [<img align="left" alt="Figma" width="32px" src="https://raw.githubusercontent.com/github/explore/05d0f0dfceafd861bdf2b53559399dae7b2e2d8b/topics/figma/figma.png" >][facebook]
+[<img align="left" alt="Illustrator" width="32px" src="https://image.flaticon.com/icons/png/128/2496/2496687.png">][instagram]
+[<img align="left" alt="Photoshop" width="32px" src="https://image.flaticon.com/icons/png/128/888/888872.png">][instagram]
 [<img align="left" alt="Wordpress" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png" >][facebook]
 
 <br>
