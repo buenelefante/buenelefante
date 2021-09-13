@@ -1,8 +1,9 @@
-# buenelephante
 
-## Hello, I'm Vladimir!
+[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/)
 
-### I'm Amazing Web Developer
+Hey, party people ✋
+
+I'm Vladimir, a Web Designer & Developer
 
 I like
 - ☕ coffe
@@ -10,6 +11,7 @@ I like
 - 🤘 heavy metal
 
 and CODING!!! 🖥️
+Want to know more about me? [Check out my portfolio.](https://vladimirsaenko.dev/)
 ---
 ### Skills and Tools
 
@@ -40,7 +42,7 @@ and CODING!!! 🖥️
 
 [<img align="left" alt="instagram" width="26px" src="https://image.flaticon.com/icons/png/128/2111/2111463.png" >][instagram]
 [<img align="left" alt="facebook" width="26px" src="https://image.flaticon.com/icons/png/128/733/733547.png" >][facebook]
-[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/)
+
 
 
 [instagram]: https://www.instagram.com/
