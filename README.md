@@ -6,7 +6,7 @@
 
 Hey, party people ✋
 
-I'm Vladimir, a Web Designer & Developer
+I'm Vladimir, a Front-end Developer, and Web Designer.
 
 I like
 - ☕ coffe
