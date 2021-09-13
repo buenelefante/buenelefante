@@ -9,6 +9,7 @@ I like
 - ☕ coffe
 - 💪 powerlifting
 - 🤘 heavy metal
+
 and CODING!!! 🖥️
 ---
 Want to know more about me? [Check out my portfolio.](https://vladimirsaenko.dev/)
