@@ -1,8 +1,8 @@
 [![Buenelephante's GitHub Banner](./assets/GitHubHeader.png)](https://vladimirsaenko.dev)
 
 [![Facebook Badge](https://img.shields.io/badge/Facebook-Profile-informational?style=flat&logo=facebook&logoColor=white&color=4867AA)](https://www.facebook.com/spbnwp)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0077B7)](https://www.linkedin.com/in/)
-[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1D9BF0)](https://twitter.com/)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0077B7)](https://www.linkedin.com/in/vladimir-saenko/)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1D9BF0)](https://twitter.com/SmallBishop)
 
 Hey, party people ✋
 
