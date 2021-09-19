@@ -28,15 +28,13 @@ Want to know more about me? [Check out my portfolio.](https://vladimirsaenko.dev
 <details>
 <summary>More Skills</summary>
 <br>
-  
+![](https://img.shields.io/badge/Tools-Photoshop-informational?style=flat&logo=Adobe-Photoshop&logoColor=white&color=89BBFE)
+![](https://img.shields.io/badge/Tools-Illustrator-informational?style=flat&logo=Adobe-Illustrator&logoColor=white&color=89BBFE)
+![](https://img.shields.io/badge/Tools-Figma-informational?style=flat&logo=Figma&logoColor=white&color=89BBFE)  
 ![](https://img.shields.io/badge/Tools-JQuery-informational?style=flat&logo=JQuery&logoColor=white&color=89BBFE)
-![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=npm&logoColor=white&color=89BBFE)
 ![](https://img.shields.io/badge/Tools-Webpack-informational?style=flat&logo=Webpack&logoColor=white&color=89BBFE)
 ![](https://img.shields.io/badge/Tools-Gulp-informational?style=flat&logo=Gulp&logoColor=white&color=89BBFE)
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=89BBFE)
-![](https://img.shields.io/badge/Tools-Photoshop-informational?style=flat&logo=Adobe-Photoshop&logoColor=white&color=89BBFE)
-![](https://img.shields.io/badge/Tools-Illustrator-informational?style=flat&logo=Adobe-Illustrator&logoColor=white&color=89BBFE)
-![](https://img.shields.io/badge/Tools-Figma-informational?style=flat&logo=Figma&logoColor=white&color=89BBFE)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=89BBFE)
 
 </details>
