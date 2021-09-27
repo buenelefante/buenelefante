@@ -36,7 +36,7 @@ Want to know more about me? [Check out my portfolio.](https://vladimirsaenko.dev
 ![](https://img.shields.io/badge/Tools-Webpack-informational?style=flat&logo=Webpack&logoColor=white&color=89BBFE)
 ![](https://img.shields.io/badge/Tools-Gulp-informational?style=flat&logo=Gulp&logoColor=white&color=89BBFE)
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=89BBFE)
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=89BBFE)
+
 
 </details>
 
