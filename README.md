@@ -15,7 +15,7 @@ I like
 
 and CODING!!! 🖥️
 ---
-Want to know more about me? [Check out my portfolio.](https://vladimirsaenko.dev/)
+Want to know more about me? [Check out my portfolio.](https://app.daily.dev/buenelefante)
 
 ## Skills and Tools 💼
 
