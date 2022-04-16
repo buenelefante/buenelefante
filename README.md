@@ -37,6 +37,8 @@ Want to know more about me? [Check out my portfolio.](https://app.daily.dev/buen
 ![](https://img.shields.io/badge/Tools-Webpack-informational?style=flat&logo=Webpack&logoColor=white&color=89BBFE)
 ![](https://img.shields.io/badge/Tools-Gulp-informational?style=flat&logo=Gulp&logoColor=white&color=89BBFE)
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=89BBFE)
+![](https://img.shields.io/badge/Tools-Spring-informational?style=flat&logo=Spring&logoColor=white&color=89BBFE)
+![](https://img.shields.io/badge/Tools-Hibernate-informational?style=flat&logo=Hibernate&logoColor=white&color=89BBFE)
 
 
 </details>
