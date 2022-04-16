@@ -23,8 +23,8 @@ Want to know more about me? [Check out my portfolio.](https://app.daily.dev/buen
 ![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=89BBFE)
 ![](https://img.shields.io/badge/Style-Sass-informational?style=flat&logo=Sass&logoColor=white&color=89BBFE)
 ![](https://img.shields.io/badge/Style-BEM-informational?style=flat&logo=bem&logoColor=white&color=89BBFE)
-![](https://img.shields.io/badge/Tools-Java-informational?style=flat&logo=Webpack&logoColor=white&color=89BBFE)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=89BBFE)
+![](https://img.shields.io/badge/Tools-Java-informational?style=flat&logo=java&logoColor=white&color=89BBFE)
 
 <details>
 <summary>More Skills</summary>
